@@ -20,7 +20,7 @@ The data used in this project is spread across two CSV files containing player d
 - `player_stats.csv`
 - `fifa_wc_2022_player_stats.csv`
 
-Credit - Both datasets can be obtained from Kaggle using the following links:
+Credit - both datasets can be obtained from Kaggle using the following links:
 - https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data/datainternational-football-results-from-1872-to-2017
 - https://www.kaggle.com/datasets/rhugvedbhojane/fifa-world-cup-2022-players-statistics/data
 
