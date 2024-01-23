@@ -16,9 +16,9 @@ This project focuses on using Python, the unidecode module and the pandas Data A
 The project code and results are contained in the Jupyter Notebook `fifa-world-cup-2022-analysis.ipynb`, with a summary of the conclusions below.
 
 ## Data: 
-The data used in this project is spread across two CSV files stored in the `datasets` directory:
-- `player_stats.csv` contains match results for over 44,000 international football matches
-- `fifa_wc_2022_player_stats.csv` contains the results of matches that ended in penalty shootouts
+The data used in this project is spread across two CSV files containing player data stored in the `datasets` directory:
+- `player_stats.csv`
+- `fifa_wc_2022_player_stats.csv`
 
 Credit: Both datasets can be obtained from Kaggle using the following links
 - https://www.kaggle.com/datasets/swaptr/fifa-world-cup-2022-player-data/datainternational-football-results-from-1872-to-2017
