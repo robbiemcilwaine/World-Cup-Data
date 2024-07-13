@@ -1,4 +1,4 @@
-# A Statistical Analysis of the FIFA World Cup 2022 Player Data
+# Analysing the 2022 World Cup
 
 ## Project Overview: 
 This project focuses on using Python, the unidecode module and the pandas Data Analysis library to explore and analyse player data from the World Cup 2022, aiming to answer the following questions:
